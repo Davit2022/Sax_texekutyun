@@ -1,0 +1,7 @@
+1  name    Surname     Age                                        
+2   Aren    Gevorgyan   15
+3   Armen   Poxosyan    20
+4   Marine  Sargsyan    25
+5   Narine  Avagyan     50
+6   Grigor  Karapetyan  30
+

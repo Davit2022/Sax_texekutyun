@@ -1,0 +1,25 @@
+#include <iostream>
+
+int main(){
+    char symbol;
+    int count;
+    int direction;
+    std::cout << "Enter symbol" << std::endl;
+    std::cin >> symbol;
+    std::cout << "Enter row count" << std::endl;
+    std::cin >> count;
+    std::cout << "Write down(1) or up(0)" << std::endl;
+    std::cin >> direction;
+
+    for(int i=1;i<=count; i++){
+        for (int j=0; j<count-i; j++){
+        std::cout << " ";
+            if (i == 1){
+                std::cout << "*";
+            }else if (i = count){
+                std::cout << "*";
+                }
+            }
+        }
+    }
+}

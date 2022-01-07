@@ -1,0 +1,3 @@
+friend function
+seter geter
+over loading function
